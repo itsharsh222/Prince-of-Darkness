@@ -1,1 +1,2 @@
-print("I am the king of the world")
+a = input("Enter your name:")
+print(a)
